@@ -1,5 +1,6 @@
 Code conventions
 ================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/PlumLabs/code_conventions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Here are the conventions followed in PlumLabs
 
